@@ -5,8 +5,6 @@ import requests
 from bs4 import BeautifulSoup
 import random
 from FBlevi import Start
-rua = random.choice([
-"Mozilla/5.0 (Linux; Android 12; SM-A326U Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/104.0.5112.97 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/381.0.0.29.105;]" , "Mozilla/5.0 (iPhone; CPU iPhone OS 15_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/19G82 [FBAN/FBIOS;FBDV/iPhone14,5;FBMD/iPhone;FBSN/iOS;FBSV/15.6.1;FBSS/3;FBID/phone;FBLC/en_US;FBOP/5;FBIA/FBIOS]" , "Mozilla/5.0 (Linux; Android 12; SM-G781U Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/103.0.5060.129 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/378.0.0.18.112;]"])
 
 Token ='6880617647:AAHvLmMfpQFMrt63YDiWoy7-2xk1wG1UQ5I'# - token
 psw = []
