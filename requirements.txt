@@ -1,0 +1,5 @@
+pyotp
+FBlevi
+bs4
+telebot
+requests
